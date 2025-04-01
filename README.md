@@ -17,4 +17,6 @@ This is a fully responsive **Real Estate Website** built using **Bootstrap**. Th
 - **HTML5 & CSS3** for structure & styling
 - **JavaScript** for interactivity
 
-- 🔗 [Live Demo]([https://www.linkedin.com/in/yourprofile/](https://horizonhomes.netlify.app/))
+
+
+- 🔗 [Live Demo](https://horizonhomes.netlify.app/)
